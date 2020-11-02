@@ -323,6 +323,7 @@ export default {
   },
   data() {
     return {
+      config: null,
       pdfsrc: null,
       canSort: false,//是否可排序标识
       oldIndex: 0,
@@ -1007,12 +1008,8 @@ export default {
           this.$root.$emit('delete-resources-callback')
           break;
         case 8: {
-          let tableSelectoins = this.$store.getters.resources.tableSelections
-          tableSelectoins = tableSelectoins.map(item => {
-            return item.id
-          });
-          this.getOffice(tableSelectoins[0]);
-          this.$router.push('/personal/office')
+          if(this.checkPreview())
+            this.$router.push('/personal/office')
           break;
         }
       }
@@ -1124,21 +1121,29 @@ export default {
         url: '/office/preview',
         method: 'get',
         params: {
-          id: id
+          id: id,
+          mode: "view",
+          type: "desktop"
         }
-      }).then(data=>{
-        let config = data.data.model;
-        console.log(config)
-        this.$store.dispatch('setMode',config.mode);
-        this.$store.dispatch('setType',config.type);
-        this.$store.dispatch('setDocumentType',config.documentType);
-        this.$store.dispatch('setDocument',config.document);
-        this.$store.dispatch('setEditorConfig',config.editorConfig);
-        localStorage.setItem("office", JSON.stringify(config));
-      }).catch(err=>{
+      }).then(data => {
+        this.config = data.data.model;
+        this.$root.$emit('open-office', {config: this.config})
+      }).catch(err => {
         console.log(err);
       })
-
+    },
+    checkPreview() {
+      let tableSelectoins = this.$store.getters.resources.tableSelections
+      tableSelectoins = tableSelectoins.map(item => {
+        return item.id
+      });
+      if (tableSelectoins.length > 1) {
+        console.log(this.$store.getters.resources)
+        this.$message.error("只能预览一个文件");
+        return false;
+      }
+      this.getOffice(tableSelectoins[0]);
+      return true;
     }
   }
 }

@@ -11,7 +11,8 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        target: 'http://weblib.scutnc.cn/',
+        //target: 'http://weblib.scutnc.cn/',
+        target:'http://localhost:9092/',
          //target: 'http://weblib.ccnl.scut.edu.cn/',
         secure: false,
         changeOrigin: true,
@@ -25,7 +26,8 @@ module.exports = {
         pathRewrite: { '^/jwt': '' }
       },
       '/group': {
-        target: 'http://weblib.scutnc.cn/group/',
+        //target: 'http://weblib.scutnc.cn/group/',
+        target:'http://localhost:9092/group/',
         // target: 'http://weblib.ccnl.scut.edu.cn/group/',
         secure: false,
         changeOrigin: true,

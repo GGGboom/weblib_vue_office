@@ -1,58 +1,41 @@
 <template>
-  <div>
-    <div id="monitorOffice">
-    </div>
+  <div id="monitorOffice" style="z-index: -9999">
   </div>
-
 </template>
 <script>
-import request from "../../utils/request";
-
 export default {
   name: 'office',
   data() {
     return {
       config: {},
+      docEditor:{}
     }
   },
   methods: {
     setEditor(config) {
-      // office配置参数
       let editConfig = {
         type: config.type,
         documentType: config.documentType,
         document: config.document,
         editorConfig: config.editorConfig,
-        height: "1000px",
+        width:"100%",
+        height: "100%",
       };
-      let docEditor = new DocsAPI.DocEditor("monitorOffice", editConfig);
-    },
-    getOffice(id) {
-      request({
-        url: '/office/preview',
-        method: 'get',
-        params: {
-          id: id
-        }
-      }).then(data=>{
-        let config = data.data.model;
-        this.config = data.data.model;
-        console.log(this.config)
-        localStorage.setItem("office", JSON.stringify(config));
-      }).catch(err=>{
-        console.log(err);
-      })
-
+      this.docEditor = new DocsAPI.DocEditor("monitorOffice", editConfig);
     }
   },
   created() {
-    console.log("office")
-    this.config = JSON.parse(localStorage.getItem("office"));
   },
   mounted() {
-    this.setEditor(this.config);
+    this.$root.$on('open-office', (data) => {
+      this.config = data.config;
+      this.setEditor(this.config);
+    });
   },
-
+  destroyed() {
+    this.docEditor.destroyEditor();
+    document.getElementById("monitorOffice").remove();
+  }
 }
 
 </script>

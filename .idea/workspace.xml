@@ -20,65 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="548dd88f-9989-4ab7-b55b-c97fb785379f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/office/monitorOffice.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/modules/office.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/personal/office.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login_wrap_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login_wrap_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.eeae6d24b0e72eacfecc27716f036a33.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/0.169dcf813550f9aea488.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/10.5ea89f03dfde5ddc9bee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/12.81db37ea7e3becd6e788.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/13.dab93ea16b7f2cd18a86.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/14.a1a2aaec01f072c51879.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/15.a05d363207efc2effcf5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/16.6c3270b503d51448b5a1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/18.a620921a393a005cca73.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/19.bca1eecc170c1a2ed6b6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/20.7cc0a81ca99a680d59fc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/21.e3b4fc4aba5514ce5ec6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/22.ee939fe43d2f0bd59bd7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.b28a8c56d0ba3b07e9a5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.a3e935818cf8df38946b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.94f686a3ada0d53de7b3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/upload/chunk/js/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/upload/chunk/js/main2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/upload/chunk/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/upload/chunk/upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/upload/normal/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/upload/normal/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/upload/normal/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/upload/normal/upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/weblib-plus-logo@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/weblib-plus-logo@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_wrap_bg(cerpark).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_wrap_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/login_wrap_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/receive.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/receive.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/resources.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/resources.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/sent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/sent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/getters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/layout/components/Dialog/copyDialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/components/Dialog/copyDialog.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/components/Navbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/layout/components/Sidebar/menus.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/components/Sidebar/menus.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/personal/components/contextmenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/components/contextmenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/personal/components/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/components/list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/personal/components/pdf.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/personal/components/receiveTree.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/components/receiveTree.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/personal/info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/info.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/personal/receive.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/receive.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/personal/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/personal/sent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/sent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/search/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/search/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/upload/chunk/js/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/chunk/js/main2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/upload/chunk/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/chunk/upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/upload/normal/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/normal/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/upload/normal/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/normal/upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblib-plus-logo@2x(cerpark).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblib-plus-logo@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/weblib-plus-logo@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/office.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/office.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +39,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
@@ -132,7 +78,7 @@
       <recent name="C:\Users\86189\IdeaProjects\weblib_vue_noaction\src\views\layout\components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="build" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -193,11 +139,23 @@
       <workItem from="1604237687681" duration="654000" />
       <workItem from="1604281413288" duration="7072000" />
       <workItem from="1604288644740" duration="5106000" />
+      <workItem from="1604295244206" duration="281000" />
+      <workItem from="1604302651197" duration="14029000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -212,38 +170,54 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1604307414750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1604307414750" />
     <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1603951775930">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603951775930" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1604295240674">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1604307431444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604295240674" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604307431444" />
     <state width="1877" height="424" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603953814920" />
     <state width="2027" height="306" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1603978979190" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1604295240674">
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1604307431444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604295240674" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604307431444" />
     <state width="1877" height="424" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603953814920" />
     <state width="2027" height="306" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1603978979190" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1604295240674">
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1604307431444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604295240674" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604307431444" />
     <state width="1877" height="424" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603953814920" />
     <state width="2027" height="306" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1603978979190" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1604295240674">
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1604307431444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604295240674" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604307431444" />
     <state width="1877" height="424" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603953814920" />
     <state width="2027" height="306" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1603978979190" />
+    <state x="637" y="49" key="RollbackChangesDialog" timestamp="1604307277079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="49" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604307277079" />
     <state x="526" y="201" key="SettingsEditor" timestamp="1603954787053">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1603954787053" />
+    <state x="452" y="64" key="VcsDiffUtil.ChangesDialog" timestamp="1604307336058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="64" key="VcsDiffUtil.ChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604307336058" />
+    <state x="469" y="0" width="598" height="824" key="find.popup" timestamp="1604325373896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="0" width="598" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1604325373896" />
     <state x="515" y="180" width="672" height="503" key="search.everywhere.popup" timestamp="1604284992718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
