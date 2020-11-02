@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Document</title>
+  <script src="https://code.jquery.com/jquery-2.2.4.js" charset="gbk"></script>
+
+</head>
+<body>
+<div id="content">
+  <input type="text" value="" id="searchInput" />
+  <button onclick="search()">搜索</button>
+</div>
+</body>
+</html>
+
+
+<script>
+  function search() {
+    var arr = []
+    for (let i = 1; i < 439; i++) {
+      fetch('http://localhost:9527/maya/forumdisplay.php?fid=41&page=' + i)
+        .then(res => res.blob())
+        .then(blob => {
+          var reader = new FileReader()
+          reader.onload = function(e) {
+            var text = reader.result
+            if (text.indexOf(document.querySelector('#searchInput').value) > -1) {
+              console.log(i)
+            }
+          }
+          reader.readAsText(blob, 'GBK')
+        })
+    }
+
+  }
+
+
+</script>

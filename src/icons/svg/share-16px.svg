@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>share-16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="share-16px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(2.000000, 0.000000)" stroke="#000000">
+            <path d="M1.99985274,5.5 C0.89536853,5.5 0,6.39513991 0,7.5 C0,8.60456554 0.89536853,9.5 1.99985274,9.5 C3.10433694,9.5 4,8.60456554 4,7.5 C4,6.39513991 3.10433694,5.5 1.99985274,5.5" id="Fill-7"></path>
+            <path d="M9.99985274,0.5 C8.89536853,0.5 8,1.39513991 8,2.5 C8,3.60456554 8.89536853,4.5 9.99985274,4.5 C11.1043369,4.5 12,3.60456554 12,2.5 C12,1.39513991 11.1043369,0.5 9.99985274,0.5" id="Fill-7-Copy"></path>
+            <path d="M9.99985274,10.5 C8.89536853,10.5 8,11.3951399 8,12.5 C8,13.6045655 8.89536853,14.5 9.99985274,14.5 C11.1043369,14.5 12,13.6045655 12,12.5 C12,11.3951399 11.1043369,10.5 9.99985274,10.5" id="Fill-7-Copy-2"></path>
+        </g>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" transform="translate(7.788331, 10.053252) rotate(33.000000) translate(-7.788331, -10.053252) " x="4.78833122" y="9.55325239" width="6" height="1"></rect>
+        <rect id="Rectangle-Copy" fill="#000000" fill-rule="nonzero" transform="translate(7.788331, 5.053252) rotate(-33.000000) translate(-7.788331, -5.053252) " x="4.78833122" y="4.55325239" width="6" height="1"></rect>
+    </g>
+</svg>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="548dd88f-9989-4ab7-b55b-c97fb785379f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/office/monitorOffice.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/office.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/personal/office.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/login_wrap_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login_wrap_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/app.eeae6d24b0e72eacfecc27716f036a33.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/0.169dcf813550f9aea488.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/10.5ea89f03dfde5ddc9bee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/12.81db37ea7e3becd6e788.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/13.dab93ea16b7f2cd18a86.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/14.a1a2aaec01f072c51879.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/15.a05d363207efc2effcf5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/16.6c3270b503d51448b5a1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/18.a620921a393a005cca73.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/19.bca1eecc170c1a2ed6b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/20.7cc0a81ca99a680d59fc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/21.e3b4fc4aba5514ce5ec6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/22.ee939fe43d2f0bd59bd7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/app.b28a8c56d0ba3b07e9a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.a3e935818cf8df38946b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.94f686a3ada0d53de7b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/upload/chunk/js/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/upload/chunk/js/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/upload/chunk/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/upload/chunk/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/upload/normal/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/upload/normal/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/upload/normal/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/upload/normal/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/weblib-plus-logo@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/weblib-plus-logo@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_wrap_bg(cerpark).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_wrap_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/login_wrap_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/receive.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/receive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/resources.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/sent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/sent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/getters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout/components/Dialog/copyDialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/components/Dialog/copyDialog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout/components/Sidebar/menus.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/components/Sidebar/menus.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/components/contextmenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/components/contextmenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/components/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/components/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/components/pdf.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/components/receiveTree.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/components/receiveTree.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/info.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/receive.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/receive.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/personal/sent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/personal/sent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/search/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/search/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/upload/chunk/js/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/chunk/js/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/upload/chunk/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/chunk/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/upload/normal/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/normal/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/upload/normal/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/upload/normal/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblib-plus-logo@2x(cerpark).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblib-plus-logo@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/weblib-plus-logo@2x.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectId" id="1jXJQBovav3imT5F8AwTyLRnyrJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603354245981" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WeblibSourcecode\weblib_vue_noaction\src\utils" />
+      <recent name="D:\WeblibSourcecode\weblib_vue_noaction\src\components\office" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86189\IdeaProjects\weblib_vue_noaction\src\views\personal" />
+      <recent name="C:\Users\86189\IdeaProjects\weblib_vue_noaction\src\views\layout\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:prod" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.build" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="548dd88f-9989-4ab7-b55b-c97fb785379f" name="Default Changelist" comment="" />
+      <created>1599137325453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599137325453</updated>
+      <workItem from="1599137327961" duration="997000" />
+      <workItem from="1599138393414" duration="4514000" />
+      <workItem from="1599795097166" duration="607000" />
+      <workItem from="1602144016022" duration="63000" />
+      <workItem from="1602247857312" duration="70000" />
+      <workItem from="1602916728811" duration="933000" />
+      <workItem from="1602920098580" duration="3785000" />
+      <workItem from="1602924172105" duration="3586000" />
+      <workItem from="1603345215901" duration="6688000" />
+      <workItem from="1603357644904" duration="528000" />
+      <workItem from="1603944486133" duration="712000" />
+      <workItem from="1603951563375" duration="107000" />
+      <workItem from="1603951689868" duration="2121000" />
+      <workItem from="1603953851133" duration="10000" />
+      <workItem from="1603954493340" duration="3553000" />
+      <workItem from="1603963157193" duration="2059000" />
+      <workItem from="1603974249769" duration="4771000" />
+      <workItem from="1604111899766" duration="6620000" />
+      <workItem from="1604196901253" duration="545000" />
+      <workItem from="1604201566497" duration="1063000" />
+      <workItem from="1604206853798" duration="14351000" />
+      <workItem from="1604237687681" duration="654000" />
+      <workItem from="1604281413288" duration="7072000" />
+      <workItem from="1604288644740" duration="5106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1603951775930">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603951775930" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1604295240674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604295240674" />
+    <state width="1877" height="424" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603953814920" />
+    <state width="2027" height="306" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1603978979190" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1604295240674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604295240674" />
+    <state width="1877" height="424" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603953814920" />
+    <state width="2027" height="306" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1603978979190" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1604295240674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604295240674" />
+    <state width="1877" height="424" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603953814920" />
+    <state width="2027" height="306" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1603978979190" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1604295240674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604295240674" />
+    <state width="1877" height="424" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603953814920" />
+    <state width="2027" height="306" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1603978979190" />
+    <state x="526" y="201" key="SettingsEditor" timestamp="1603954787053">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1603954787053" />
+    <state x="515" y="180" width="672" height="503" key="search.everywhere.popup" timestamp="1604284992718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="180" width="672" height="503" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604284992718" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1603978180182" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
