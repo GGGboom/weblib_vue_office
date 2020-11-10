@@ -22,9 +22,13 @@ export default {
         height: "100%",
       };
       this.docEditor = new DocsAPI.DocEditor("monitorOffice", editConfig);
+    },
+    loadJS(url){
+      console.log(url);
     }
   },
   created() {
+
   },
   mounted() {
     this.$root.$on('open-office', (data) => {

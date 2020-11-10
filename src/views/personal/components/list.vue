@@ -169,6 +169,7 @@
       <v-contextmenu-item :disabled="!perm.open" @click="contextEvent(0)">打开</v-contextmenu-item>
       <v-contextmenu-item :disabled="!perm.download" @click="contextEvent(1)">下载</v-contextmenu-item>
       <v-contextmenu-item :disabled="!perm.download" @click="contextEvent(8)">预览</v-contextmenu-item>
+      <v-contextmenu-item :disabled="!perm.download" @click="contextEvent(9)">编辑</v-contextmenu-item>
       <v-contextmenu-item divider></v-contextmenu-item>
       <v-contextmenu-item :disabled="!perm.share" @click="contextEvent(2)">站内分享</v-contextmenu-item>
       <v-contextmenu-item :disabled="!(perm.share && perm.shareLink)" @click="contextEvent(3)">外链分享</v-contextmenu-item>
@@ -204,7 +205,6 @@ import {isChooseOne, isChoose} from '@/utils/index'
 import Sortable from 'sortablejs'
 import 'v-contextmenu/dist/index.css'
 import request from '../../../utils/request'
-import {get} from '../../../utils/test'
 
 require('vue-image-lightbox/dist/vue-image-lightbox.min.css')
 Vue.use(VueLazyload)
@@ -1008,7 +1008,12 @@ export default {
           this.$root.$emit('delete-resources-callback')
           break;
         case 8: {
-          if(this.checkPreview())
+          if(this.checkPreview("view"))
+            this.$router.push('/personal/office')
+          break;
+        }
+        case 9: {
+          if(this.checkPreview("edit"))
             this.$router.push('/personal/office')
           break;
         }
@@ -1116,13 +1121,13 @@ export default {
         return ''
       }
     },
-    getOffice(id) {
+    getOffice(id,mode) {
       request({
         url: '/office/preview',
         method: 'get',
         params: {
           id: id,
-          mode: "view",
+          mode: mode,
           type: "desktop"
         }
       }).then(data => {
@@ -1132,17 +1137,16 @@ export default {
         console.log(err);
       })
     },
-    checkPreview() {
+    checkPreview(mode) {
       let tableSelectoins = this.$store.getters.resources.tableSelections
       tableSelectoins = tableSelectoins.map(item => {
         return item.id
       });
       if (tableSelectoins.length > 1) {
-        console.log(this.$store.getters.resources)
         this.$message.error("只能预览一个文件");
         return false;
       }
-      this.getOffice(tableSelectoins[0]);
+      this.getOffice(tableSelectoins[0],mode);
       return true;
     }
   }
