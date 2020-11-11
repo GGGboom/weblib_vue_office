@@ -114,7 +114,7 @@ $(function() {
   'use strict' //以下js语法使用以严谨模式
   //var url = uploadUrl + '/group/uploadResource.action' //本地测试上传url
 
-    var url='http://'+window.location.host+'/group/uploadResource'//部署
+    var url='http://'+window.location.host+'/api/group/uploadResource'//部署
 //    $('#fileupload').fileupload({
 //        url: url
 //    });

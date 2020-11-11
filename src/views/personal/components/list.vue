@@ -156,7 +156,11 @@
         </el-col>
       </el-row>
     </div>
-
+    <el-dialog width="60%"
+               title="内层 Dialog"
+               :visible.sync="OfficeVisible">
+      <office></office>
+    </el-dialog>
     <!--图片灯箱-->
     <LightBox v-if="isLightBox" id="lightbox" :images="images" ref="lightbox"
               :show-caption="true"
@@ -205,6 +209,7 @@ import {isChooseOne, isChoose} from '@/utils/index'
 import Sortable from 'sortablejs'
 import 'v-contextmenu/dist/index.css'
 import request from '../../../utils/request'
+import office from "../office";
 
 require('vue-image-lightbox/dist/vue-image-lightbox.min.css')
 Vue.use(VueLazyload)
@@ -212,7 +217,7 @@ Vue.use(contentmenu)
 export default {
   name: 'list',
   components: {
-    Breadcrumb, LightBox
+    Breadcrumb, LightBox,office
   },
   props: {
     listType: {
@@ -323,6 +328,7 @@ export default {
   },
   data() {
     return {
+      OfficeVisible:false,//office对话框 显示与否
       config: null,
       pdfsrc: null,
       canSort: false,//是否可排序标识
@@ -1009,11 +1015,13 @@ export default {
           break;
         case 8: {
           if(this.checkPreview("view"))
-            this.$router.push('/personal/office')
+            this.OfficeVisible=true;
+            //this.$router.push('/personal/office')
           break;
         }
         case 9: {
           if(this.checkPreview("edit"))
+            this.OfficeVisible=true;
             this.$router.push('/personal/office')
           break;
         }

@@ -12,7 +12,7 @@ module.exports = {
     proxyTable: {
       '/api': {
         //target: 'http://weblib.scutnc.cn/',
-        target:'http://localhost:9092/',
+        target:'http://localhost:9090/',
          //target: 'http://weblib.ccnl.scut.edu.cn/',
         secure: false,
         changeOrigin: true,

@@ -19,7 +19,7 @@ export default {
         document: config.document,
         editorConfig: config.editorConfig,
         width:"100%",
-        height: "100%",
+        height: "700px",
       };
       this.docEditor = new DocsAPI.DocEditor("monitorOffice", editConfig);
     },
